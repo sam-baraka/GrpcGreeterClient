@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3Hj9OHvum+pB07NdXK2KZJwiCow9lbhyz7AUZfBJdV33fmNhZ8rEIKXhg1FghRgWd8pEU3yLcNQtciI9mhdGcQ==",
+  "dgSpecHash": "fZDC+q0rFms5lrjeLCBhI5B/L0Ib7RyBQGI2Mcwpwk+TxCn23QsJRIBaG5pLfDOnbsQ9mL12swnoVGjXDinxuQ==",
   "success": true,
   "projectFilePath": "/Users/sababuvercetti/Documents/GitHub/GrpcGreeterClient/GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
+    "/Users/sababuvercetti/.nuget/packages/google.protobuf/3.25.3/google.protobuf.3.25.3.nupkg.sha512",
     "/Users/sababuvercetti/.nuget/packages/grpc.core.api/2.61.0/grpc.core.api.2.61.0.nupkg.sha512",
     "/Users/sababuvercetti/.nuget/packages/grpc.net.client/2.61.0/grpc.net.client.2.61.0.nupkg.sha512",
     "/Users/sababuvercetti/.nuget/packages/grpc.net.common/2.61.0/grpc.net.common.2.61.0.nupkg.sha512",
+    "/Users/sababuvercetti/.nuget/packages/grpc.tools/2.62.0/grpc.tools.2.62.0.nupkg.sha512",
     "/Users/sababuvercetti/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
