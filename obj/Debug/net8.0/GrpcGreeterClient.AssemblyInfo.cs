@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrpcGreeterClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba7d598c5680d65208f4e28cc2942871ec0ba5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865a170996ce8f45531c7058e3df7367de5582a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrpcGreeterClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrpcGreeterClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
